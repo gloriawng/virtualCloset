@@ -1,4 +1,4 @@
-# 2nd Place Winner & Winner of Best Use of Streamlit
+# TechNova 2024 2nd Place Winner & Winner of Best Use of Streamlit
 
 Problem Statement
 
